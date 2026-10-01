@@ -1,16 +1,14 @@
 <h1 align="center">Kshetrimayum Lochan</h1>
 
-<h3 align="center">
-Project Assistant Professor · Kobe University, Japan
-</h3>
+<h3 align="center">Project Assistant Professor · Kobe University, Japan</h3>
 
 <p align="center">
 CINAPS Lab · Graduate School of System Informatics
 </p>
 
-<h4 align="center">
-Robotics · Vision-Language-Action · Robot Dynamics & Control · Autonomous Manipulation
-</h4>
+<p align="center">
+<strong>Vision-Language-Action Models · Autonomous Manipulation · Robot Dynamics & Control · Embodied AI</strong>
+</p>
 
 <p align="center">
   <a href="https://scholar.google.co.in/citations?user=Sx0c1C0AAAAJ&hl=en">
@@ -22,35 +20,59 @@ Robotics · Vision-Language-Action · Robot Dynamics & Control · Autonomous Man
   <a href="mailto:lochan.nits@gmail.com">
     <img src="https://img.shields.io/badge/Email-lochan.nits%40gmail.com-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/KLochan">
-    <img src="https://img.shields.io/badge/GitHub-KLochan-181717?logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-<div align="center">
+## Biography
 
-| Research Interests | Academic & Research Profile |
-| --- | --- |
-| 🤖 **Vision-Language-Action Models** | 📚 **24 peer-reviewed journal articles** |
-| 🦾 **Autonomous Robotic Manipulation** | 📖 **1 authored CRC Press book** |
-| 🎯 **Robot Dynamics & Control** | 📘 **6 book chapters** |
-| 🧠 **Nonlinear & Robust Control** | 📝 **18 conference papers** |
-| 👁️ **Visual Servoing & Perception** | 🎓 **12+ years teaching & research** |
-| 🌱 **Agricultural Robotics** | 🌏 **Japan · UAE · India** |
+I am a **Project Assistant Professor at Kobe University, Japan**, working in the **CINAPS Lab** on robotic manipulation, Vision-Language-Action (VLA) models, and embodied AI.
 
-</div>
+My research trajectory spans **robot dynamics, nonlinear and robust control, adaptive control, flexible manipulators, underwater robotic manipulation, visual servoing, agricultural robotics, and learning-based autonomous manipulation**.
+
+My current work focuses on integrating **vision, language, perception, policy inference, and robot control** to enable manipulators to perform autonomous tasks from natural-language instructions.
 
 ---
 
-## About Me
+## Research Vision
 
-I am a **Project Assistant Professor at Kobe University, Japan**, working on robotic manipulation, **Vision-Language-Action (VLA) models**, and embodied intelligence.
+My long-term research goal is to develop **robust, adaptive, and intelligent robotic systems** that can operate reliably in complex and uncertain real-world environments.
 
-My research background spans **robot dynamics, nonlinear and robust control, adaptive control, flexible manipulators, underwater manipulation, visual servoing, agricultural robotics, and learning-based autonomous manipulation**.
+I am particularly interested in combining:
 
-My current work at **CINAPS Lab, Kobe University** focuses on integrating **vision, language, perception, policy inference, and robot control** to enable real robotic manipulators to execute natural-language instructions.
+- model-based robot dynamics and nonlinear control,
+- Vision-Language-Action models,
+- multimodal perception,
+- autonomous manipulation,
+- learning-based robot policies,
+- and embodied intelligence.
+
+This direction connects my background in control theory with current advances in learning-enabled robotics.
+
+---
+
+## Current Research
+
+### Vision-Language-Action Robotics
+- language-conditioned real-robot manipulation
+- multimodal perception for manipulation
+- VLA policy inference and robot execution
+- action efficiency and faster inference
+- real-world deployment of π0.5 / OpenPI
+
+### Robot Dynamics & Control
+- nonlinear and robust control
+- adaptive and sliding-mode control
+- super-twisting control
+- contraction-based control and observers
+- flexible manipulator dynamics and vibration suppression
+
+### Autonomous Robotics
+- visual servoing
+- learning-based manipulation
+- underwater manipulation
+- agricultural robotics
+- embodied AI
 
 ---
 
@@ -58,100 +80,115 @@ My current work at **CINAPS Lab, Kobe University** focuses on integrating **visi
 
 ### [π0.5 × xArm7 — Real-Robot VLA Handwash Bottle Picking](https://github.com/KLochan/pi0.5-xArm7-handwash-pick)
 
-<p align="center">
-Real-robot Vision-Language-Action deployment using π0.5 / OpenPI on a UFactory xArm7.
-</p>
+Real-robot Vision-Language-Action deployment using **π0.5 / OpenPI** on a **UFactory xArm7**.
 
-- ~100 real-robot demonstrations
-- UFactory xArm7 + UF G2 gripper
-- external + wrist Intel RealSense D435i cameras
-- ROS 2 Jazzy + LeRobot + OpenPI / π0.5
-- 15-step action horizon
-- verified real-robot pick–lift–release execution
-- typical π0.5 policy inference ≈ **100 ms** on an RTX 5090 workstation
+| Component | Details |
+|---|---|
+| Robot | UFactory xArm7 + UF G2 gripper |
+| Vision | External + wrist Intel RealSense D435i |
+| Middleware | ROS 2 Jazzy |
+| Dataset format | LeRobot |
+| Demonstrations | ~100 |
+| Action horizon | 15 steps |
+| Typical inference | ~100 ms on RTX 5090 |
+| Real-robot result | Verified pick–lift–release execution |
 
 ---
 
-## Current Research
+## Professional Appointments
 
-- Vision-Language-Action models for robotic manipulators
-- language-conditioned autonomous manipulation
-- multimodal perception and real-world robot execution
-- faster VLA inference and action efficiency
-- integration of nonlinear control and robot learning
-- embodied AI for robust robotic autonomy
+**Kobe University, Japan**  
+*Project Assistant Professor* · Jun 2026 – Present  
+Vision-Language-Action models, robotic manipulation, embodied AI
+
+**Khalifa University, Abu Dhabi, UAE**  
+*Postdoctoral Fellow* · Jan 2023 – Apr 2026  
+Visual servoing, autonomous manipulation, agricultural robotics
+
+**Indian Institute of Technology Palakkad, India**  
+*Postdoctoral Fellow* · Jan 2022 – May 2022  
+Underwater vehicle-manipulator systems
+
+**Manipal Institute of Technology, MAHE, India**  
+*Assistant Professor* · Jul 2018 – Sep 2021  
+Robotics, robot dynamics, control systems, path planning
+
+**National Institute of Technology Silchar, India**  
+*Research & Teaching Assistant / Contractual Faculty* · 2013 – 2018
 
 ---
 
 ## Education
 
-### Ph.D. in Robotics and Control
-**National Institute of Technology Silchar, India**  
+**Ph.D. in Robotics and Control**  
+National Institute of Technology Silchar, India  
 Thesis: *Design of Robust Control Algorithms for a Two-link Flexible Manipulator*
 
-### M.Tech. in Electronics and Communication Engineering
-**Gauhati University, India**
+**M.Tech. in Electronics and Communication Engineering**  
+Gauhati University, India
 
-### B.Tech. in Electronics and Communication Engineering
-**Anna University, India**
-
----
-
-## Skills 🛠
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,linux,git,github,docker,matlab,ros,pytorch" />
-  </a>
-</p>
-
-<p align="center">
-<strong>ROS / ROS 2 · Python · MATLAB · MuJoCo · Isaac Sim · OpenPI / π0.5 · LeRobot · Intel RealSense · RobotStudio · PLC Programming</strong>
-</p>
+**B.Tech. in Electronics and Communication Engineering**  
+Anna University, India
 
 ---
 
-## Robot Platforms
+## Research Track Record
 
-<p align="center">
-xArm7 · Franka · AUBO-i10 · UR5 · ABB IRB-2600 · FarmBot · TurtleBot · Husky · Stretch Research Edition · QUANSER-TLFM · DVSA
-</p>
-
----
-
-## Selected Publications & Book
-
-- **K. Lochan, B. K. Roy, B. Subudhi, S. Mohan**, *Robust Control Algorithms for Two-link Flexible Manipulators*, CRC Press / Taylor & Francis, 2024.
-- **K. Lochan, B. K. Roy, B. Subudhi, I. Hussain**, “Contraction-Based Observer for Chaotic Tracking of a Port-Hamiltonian Two-Link Flexible Manipulator,” IEEE Robotics and Automation Letters, under review/revision, 2026.
-- **K. Lochan, B. K. Roy, B. Subudhi, I. Hussain**, “Second-order non-singular terminal sliding mode barrier function-based adaptive robust tip trajectory tracking of a two-link flexible manipulator,” *Systems Science & Control Engineering*, 2026.
-- **K. Lochan, A. Khan, I. Elsayed, B. Suthar, L. Seneviratne, I. Hussain**, “Advancements in Precision Delivery of Agricultural Robotics: A Comprehensive Review,” *IEEE Access*, 2024.
-- **K. Lochan, J. P. Singh, B. K. Roy, B. Subudhi**, “Adaptive Time-varying Super-twisting Global SMC for Projective Synchronisation of Flexible Manipulator,” *Nonlinear Dynamics*, 2018.
+- **24 peer-reviewed journal articles**
+- **1 authored book** — CRC Press / Taylor & Francis
+- **6 book chapters**
+- **18 conference papers**
+- **12+ years of university teaching and research experience**
+- funded-project leadership in robotics and agricultural robotics
+- experience establishing and operating real-robot laboratory and greenhouse test facilities
 
 ---
 
-## Research & Academic Experience
+## Selected Publications
 
-**Kobe University, Japan**  
-Project Assistant Professor · 2026–Present  
-Vision-Language-Action models, robotic manipulation, embodied AI
+1. **K. Lochan, B. K. Roy, B. Subudhi, S. Mohan**, *Robust Control Algorithms for Two-link Flexible Manipulators*, CRC Press / Taylor & Francis, 2024.
 
-**Khalifa University, Abu Dhabi, UAE**  
-Postdoctoral Fellow · 2023–2026  
-Visual servoing, autonomous manipulation, Agri-Robotics
+2. **K. Lochan, B. K. Roy, B. Subudhi, I. Hussain**, “Contraction-Based Observer for Chaotic Tracking of a Port-Hamiltonian Two-Link Flexible Manipulator,” *IEEE Robotics and Automation Letters*, under review/revision, 2026.
 
-**Indian Institute of Technology Palakkad, India**  
-Postdoctoral Fellow · 2022  
-Underwater vehicle-manipulator systems
+3. **K. Lochan, B. K. Roy, B. Subudhi, I. Hussain**, “Second-order non-singular terminal sliding mode barrier function-based adaptive robust tip trajectory tracking of a two-link flexible manipulator,” *Systems Science & Control Engineering*, 2026.
 
-**Manipal Institute of Technology, India**  
-Assistant Professor · 2018–2021  
-Robotics, control systems, robot path planning
+4. **K. Lochan, A. Khan, I. Elsayed, B. Suthar, L. Seneviratne, I. Hussain**, “Advancements in Precision Delivery of Agricultural Robotics: A Comprehensive Review,” *IEEE Access*, 2024.
+
+5. **K. Lochan, J. P. Singh, B. K. Roy, B. Subudhi**, “Adaptive Time-varying Super-twisting Global SMC for Projective Synchronisation of Flexible Manipulator,” *Nonlinear Dynamics*, 2018.
+
+---
+
+## Awards & Recognition
+
+- Mentor-Mentee Fellowship, **Indian National Academy of Engineering (INAE)**, 2021
+- Best Paper Award, **XVI Control Instrumentation System Conference**, 2019
+- Ph.D. Assistantship, **NIT Silchar**, 2013–2018
+- Merit Scholarship, **North Eastern Council (NEC)**
+
+---
+
+## Robot Platforms & Tools
+
+### Robot Platforms
+xArm7 · Franka · FarmBot · AUBO-i10 · DVSA · QUANSER-TLFM · UR5 · ABB IRB-2600 · TurtleBot · Husky · Stretch Research Edition
+
+### Tools & Frameworks
+ROS / ROS 2 · Python · MATLAB · MuJoCo · Isaac Sim · OpenPI / π0.5 · LeRobot · Intel RealSense · RobotStudio · PLC Programming
+
+---
+
+## News
+
+- **Oct 2026** — Released a documented π0.5 × xArm7 real-robot VLA implementation for handwash-bottle picking.
+- **Jun 2026** — Joined Kobe University as Project Assistant Professor.
+- **2026** — Current research on VLA-based robotic manipulation at CINAPS Lab, Kobe University.
+- **2026** — IEEE Robotics and Automation Letters manuscript under review/revision.
 
 ---
 
 ## Academic & Industrial Collaboration
 
-My research experience includes collaboration and project work involving:
+Research and project experience includes collaboration with:
 
 - Kobe University / CINAPS Lab
 - Khalifa University / KUCARS
