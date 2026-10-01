@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <rect width="1200" height="280" fill="white"/>
+  <g transform="translate(105,26)">
+    <ellipse cx="105" cy="68" rx="78" ry="62" fill="#ffd85e" stroke="#1b2a3a" stroke-width="5"/>
+    <rect x="43" y="23" width="124" height="94" rx="36" fill="#f8fbff" stroke="#1b2a3a" stroke-width="6"/>
+    <rect x="57" y="39" width="96" height="66" rx="26" fill="#16283a"/>
+    <ellipse cx="85" cy="69" rx="11" ry="17" fill="white"/>
+    <ellipse cx="126" cy="69" rx="11" ry="17" fill="white"/>
+    <rect x="99" y="88" width="14" height="7" rx="3.5" fill="white"/>
+    <path d="M65 116 Q105 150 145 116 L156 190 Q105 223 54 190 Z" fill="#16283a" stroke="#1b2a3a" stroke-width="5"/>
+    <path d="M57 132 Q34 146 38 182 Q50 195 67 177" fill="#ffd85e" stroke="#1b2a3a" stroke-width="5"/>
+    <path d="M153 132 Q176 146 172 182 Q160 195 143 177" fill="#ffd85e" stroke="#1b2a3a" stroke-width="5"/>
+  </g>
+  <text x="365" y="164" font-family="Arial, Helvetica, sans-serif" font-size="90" font-weight="700" fill="#f4c84b">ROBOTICS</text>
+  <text x="370" y="105" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="300" fill="#f2f2f2" letter-spacing="8">INTELLIGENT</text>
+</svg>
